@@ -72,6 +72,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/mvZjbj9Y5rMXsn3zNf6vBA/TCC?node-id=0%3A1). Lembrando que você  precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
+## :fast_forward: Roadmap
+
+Pretendemos dar continuidade ao projeto, criamos um Roadmap do Klass que está disponível através [desse](wiki/roadmap.jpeg?raw=true) link.
+
 ## :memo: Licença
 
 Esse projeto está sob a licença Apache 2.0. Veja o arquivo [LICENSE](wiki/licence/LICENCE.md) para mais detalhes.
